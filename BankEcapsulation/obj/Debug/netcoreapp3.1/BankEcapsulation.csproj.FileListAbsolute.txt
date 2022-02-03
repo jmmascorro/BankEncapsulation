@@ -1,0 +1,14 @@
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\bin\Debug\netcoreapp3.1\BankEcapsulation.exe
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\bin\Debug\netcoreapp3.1\BankEcapsulation.deps.json
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\bin\Debug\netcoreapp3.1\BankEcapsulation.runtimeconfig.json
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\bin\Debug\netcoreapp3.1\BankEcapsulation.runtimeconfig.dev.json
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\bin\Debug\netcoreapp3.1\BankEcapsulation.dll
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\bin\Debug\netcoreapp3.1\BankEcapsulation.pdb
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\obj\Debug\netcoreapp3.1\BankEcapsulation.csproj.AssemblyReference.cache
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\obj\Debug\netcoreapp3.1\BankEcapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\obj\Debug\netcoreapp3.1\BankEcapsulation.AssemblyInfoInputs.cache
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\obj\Debug\netcoreapp3.1\BankEcapsulation.AssemblyInfo.cs
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\obj\Debug\netcoreapp3.1\BankEcapsulation.csproj.CoreCompileInputs.cache
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\obj\Debug\netcoreapp3.1\BankEcapsulation.dll
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\obj\Debug\netcoreapp3.1\BankEcapsulation.pdb
+C:\Users\jesse mascorro\repos\BankEcapsulation\BankEcapsulation\obj\Debug\netcoreapp3.1\BankEcapsulation.genruntimeconfig.cache
